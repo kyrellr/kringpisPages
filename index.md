@@ -5,13 +5,10 @@
 > I'm an aspiring product manager with 7+ years experience managing a small business, seeking to leverage customer empathy and research skills to drive delightful product experiences to users.
 
 ### **Jump to section:**
-- [**Kyrell Ringpis**](#kyrell-ringpis)
-    - [***About Me***](#about-me)
-    - [**Jump to section:**](#jump-to-section)
-    - [**Basic Information**](#basic-information)
-    - [**Contact Information**](#contact-information)
-    - [**Skills**](#skills)
-    - [**Interests**](#interests)
+  1. [**Basic Information**](#basic-information)
+  2. [**Contact Information**](#contact-information)
+  3. [**Skills**](#skills)
+  4. [**Interests**](#interests)
 
 ### **Basic Information**
 - Gender: Male
